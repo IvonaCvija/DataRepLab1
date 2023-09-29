@@ -23,6 +23,3 @@ const Bye = (myValue)=>{
 }
 
 Bye("Bonjour");
-
-//for sum
-let.myArray.map()
